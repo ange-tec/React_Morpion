@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "lucide-react": "^0.472.0",
     "react-browser-router": "^2.1.2"
   }
 }
